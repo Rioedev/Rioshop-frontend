@@ -1,5 +1,5 @@
 import { Row, Col, Card } from "antd";
-import MainLayout from "../layouts/MainLayout";
+import MainLayout from "../../../layouts/ClientLayout";
 
 const Home = () => {
   return (
